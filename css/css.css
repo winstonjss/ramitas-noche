@@ -1,0 +1,14 @@
+.fondo{
+    background: rgb(79, 107, 148);
+}
+.btn{
+    text-decoration: none;
+    display: inline-block;
+    padding: 14px 20px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 13px;
+    font-weight: 500;
+    margin: 0px 4px 0px 10px !important;
+    border-radius: 4px;
+}
